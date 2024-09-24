@@ -1,3 +1,3 @@
 # JavaScript
 
-<img src="./js.jpg" alt="JavaScript Logo" width="100">
+<img src="./js.jpg" alt="JavaScript Logo">
